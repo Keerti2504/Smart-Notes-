@@ -65,6 +65,8 @@ fun TaskManagerPreview() {
 }
 }
 ```
+---
+
 ##🔮 Future Improvements
 🕒 Add timestamps and reminder notifications
 
