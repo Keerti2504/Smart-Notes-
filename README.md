@@ -75,5 +75,4 @@ fun TaskManagerPreview() {
 🏷️ Add categorization/tags
 
 🎬 Improve UI with animations and gestures
-    }
-}
+
