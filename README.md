@@ -67,7 +67,7 @@ fun TaskManagerPreview() {
 ```
 ---
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 🕒 Add timestamps and reminder notifications
 
 ☁️ Sync notes to cloud storage
